@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nick8\\Desktop\\C#\\basic_13\\basic_13.csproj": {}
+    "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\basic_13\\basic_13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nick8\\Desktop\\C#\\basic_13\\basic_13.csproj": {
+    "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\basic_13\\basic_13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nick8\\Desktop\\C#\\basic_13\\basic_13.csproj",
+        "projectUniqueName": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\basic_13\\basic_13.csproj",
         "projectName": "basic_13",
-        "projectPath": "C:\\Users\\nick8\\Desktop\\C#\\basic_13\\basic_13.csproj",
+        "projectPath": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\basic_13\\basic_13.csproj",
         "packagesPath": "C:\\Users\\nick8\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nick8\\Desktop\\C#\\basic_13\\obj\\",
+        "outputPath": "C:\\Users\\nick8\\Desktop\\Coding_Dojo\\C#\\basic_13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nick8\\AppData\\Roaming\\NuGet\\NuGet.Config"
